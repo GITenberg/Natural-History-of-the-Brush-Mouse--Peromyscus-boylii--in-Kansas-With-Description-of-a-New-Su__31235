@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35083'
     url: http://www.gutenberg.org/2009/agents/35083
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31235#Natural-History-of-the-Brush-Mouse--Peromyscus-boylii--in-Kansas-With-Description-of-a-New-Su_
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Mammals
